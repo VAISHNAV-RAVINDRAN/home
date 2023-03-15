@@ -27,7 +27,7 @@ function UserHome() {
     <div style={{
       width:'auto',
       height:'auto',
-      backgroundColor:'#202020',
+      backgroundColor:'transparant',
       display:'flex',
       alignItems:'center',
       justifyContent:'center',
